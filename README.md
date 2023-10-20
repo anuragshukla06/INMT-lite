@@ -1,12 +1,5 @@
 <h1> <p align="center"> INMT-Lite </p></h1> 
 Interactive Neural Machine Translation-lite (INMT-Lite) is an assistive translation service that can be run on embedded devices like mobile phones and tablets that have low computation power, space and no internet connectivity. A detailed background of the compression techniques used to drive the assistive interfaces, the model's data and evaluation and the interface design can be found at the linked works. 
-
-<h7> <p align="center"> <a href="https://arxiv.org/abs/2211.16172"> <i> <b> Collecting Data through community-oriented channels </b> in under-resourced communities </i> </a> 
-<h7> <p align="center"> <a href="https://arxiv.org/abs/2210.15184"> <em> <b> Compression of Massively Multilingual Translation Models </b> for Offline Operation </em> </a> 
-
-<h7> <p align="center"> <a href=""> <em> Assistive Interfaces for Enhancing and Evaluating Data Collection <b> (Coming Soon!) </b> </em> </a> 
-
-
 Table of Contents
 =================
 
@@ -107,24 +100,3 @@ pip install -r requirements.txt
 
 Please refer to the readme for a detailed overview in RNN root folder. 
 ```
-#### Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-#### Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
